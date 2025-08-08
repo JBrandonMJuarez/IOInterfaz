@@ -1,0 +1,93 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do InterfazIO_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio\ CIC/InterfazIO {C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/InterfazIO.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:14:14 on Aug 04,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO" C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/InterfazIO.v 
+# -- Compiling module InterfazIO
+# -- Compiling module Interfaz_IO_tb
+# 
+# Top level modules:
+# 	Interfaz_IO_tb
+# End time: 17:14:14 on Aug 04,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio\ CIC/InterfazIO {C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/RegIo.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:14:15 on Aug 04,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO" C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/RegIo.v 
+# -- Compiling module RegIO
+# 
+# Top level modules:
+# 	RegIO
+# End time: 17:14:15 on Aug 04,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio\ CIC/InterfazIO {C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/TRC.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:14:15 on Aug 04,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO" C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/TRC.v 
+# -- Compiling module TRC
+# 
+# Top level modules:
+# 	TRC
+# End time: 17:14:15 on Aug 04,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+vsim work.Interfaz_IO_tb
+# vsim work.Interfaz_IO_tb 
+# Start time: 17:15:02 on Aug 04,2025
+# Loading work.Interfaz_IO_tb
+# Loading work.InterfazIO
+# Loading work.TRC
+# Loading work.RegIO
+add wave -position end  sim:/Interfaz_IO_tb/Interfaz_U0/clk_i
+add wave -position end  sim:/Interfaz_IO_tb/Interfaz_U0/rst_ni
+add wave -position end  sim:/Interfaz_IO_tb/Interfaz_U0/DataA_io
+add wave -position end  sim:/Interfaz_IO_tb/Interfaz_U0/DataB_io
+add wave -position end  sim:/Interfaz_IO_tb/Interfaz_U0/DataC_io
+add wave -position end  sim:/Interfaz_IO_tb/Interfaz_U0/data_i
+add wave -position end  sim:/Interfaz_IO_tb/Interfaz_U0/dir_i
+add wave -position end  sim:/Interfaz_IO_tb/Interfaz_U0/wr_i
+add wave -position end  sim:/Interfaz_IO_tb/Interfaz_U0/rd_i
+add wave -position end  sim:/Interfaz_IO_tb/Interfaz_U0/data_o
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run

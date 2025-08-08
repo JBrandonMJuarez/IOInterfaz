@@ -1,0 +1,102 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/simulation/modelsim
+vInterfaz_IO_tb
+Z1 !s110 1754320454
+!i10b 1
+!s100 9i]g:P[]:9EcbI5Yo1cQ70
+ICS`RlkI3M4:eN]e@g4MBB0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1754320297
+Z4 8C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/InterfazIO.v
+Z5 FC:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/InterfazIO.v
+L0 131
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1754320454.000000
+Z8 !s107 C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/InterfazIO.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO|C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/InterfazIO.v|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work {+incdir+C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO}
+Z12 tCvgOpt 0
+n@interfaz_@i@o_tb
+vInterfazIO
+R1
+!i10b 1
+!s100 IfTAiTGHb>nBC2cV7zVln3
+IK1^EF6<12COA5dZ^K_:Yi0
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@interfaz@i@o
+vRegIO
+Z13 !s110 1754320455
+!i10b 1
+!s100 <=b;11a[o^bN=Dd[1@[Il1
+I>NB@AmXoEdfd`IFBdAfTl2
+R2
+R0
+w1664223035
+8C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/RegIo.v
+FC:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/RegIo.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z14 !s108 1754320455.000000
+!s107 C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/RegIo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO|C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/RegIo.v|
+!i113 1
+R10
+R11
+R12
+n@reg@i@o
+vTRC
+R13
+!i10b 1
+!s100 ocJOXV4S?C2>S<2i>QhhN0
+IMXAOMl_7lQ_hl<Sb5KQRA2
+R2
+R0
+w1664223107
+8C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/TRC.v
+FC:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/TRC.v
+L0 1
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/TRC.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO|C:/Users/jbran/OneDrive/Documentos/Escuela/Servicio CIC/InterfazIO/TRC.v|
+!i113 1
+R10
+R11
+R12
+n@t@r@c
