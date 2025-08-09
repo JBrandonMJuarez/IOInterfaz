@@ -1,2 +1,2 @@
-# IOInterfaz-RISCV
+# IOInterfaz
 IO Interfaz for general purpose
